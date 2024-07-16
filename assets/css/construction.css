@@ -70,7 +70,7 @@ h1 {
 	height: 98px;
 	width: 960px;
 	overflow: hidden;
-	margin-left: 16px;
+	margin-left: 0px;
 	position: absolute;
 	left: 0px;
 }
