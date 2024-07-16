@@ -4,7 +4,7 @@
 	margin-right: auto;
 	margin-left: auto;
 	height: auto;
-	background: url(../image/common/wrapper_backsub.jpg) no-repeat center 155px;
+	background: url(../image/common/wrapper_backsub.jpg) no-repeat center 155px; 
 }
 body#top #wrapper {
 	background: url(../image/common/wrapper_back.jpg) no-repeat center 155px;
@@ -65,7 +65,7 @@ body#top #wrapper {
 /* in header */
 
 h1 {
-	background: url(../image/common/title.gif) no-repeat;
+	background: url(../image/common/title.jpg) no-repeat;
 	text-align: left;
 	height: 98px;
 	width: 960px;
